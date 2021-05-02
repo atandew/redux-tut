@@ -13,6 +13,34 @@
   }
 }
 
+.btn-wrapper button {
+  background-color: red;
+  border: 0px;
+  padding: 10px;
+  border-radius: 4px;
+  color: white;
+}
+
+
+.img-wrapper img{
+  width: 20vw;
+}
+
+.cart-wrapper{
+
+  width: 50vw;
+  border: 1px solid #ccc;
+}
+
+.item{
+  float: left;
+  width: 120px;
+  padding: 20px;
+  height: 70px;
+}
+
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
